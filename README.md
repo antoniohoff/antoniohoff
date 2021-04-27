@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @antoniohoff
+- 👋 Hi, I’m Antonio
+- 🔬 I have a high school degree as a Chemical techician
+- 🚛 I was a truck driver for 4 years
 - 🌱 I’m currently learning PHP
-- 🚛 I drove long haul truck for 4 years
+- 🏺 My goal here is to become independent developer
+- 🚛 I was a truck driver for 4 years
 - 🇨🇦 Someday I plan to live in Canada 
 
 <!---
