@@ -3,7 +3,6 @@
 - 🚛 I was a truck driver for 4 years
 - 🌱 I’m currently learning PHP
 - 🏺 My goal here is to become independent developer
-- 🚛 I was a truck driver for 4 years
 - 🇨🇦 Someday I plan to live in Canada 
 
 <!---
