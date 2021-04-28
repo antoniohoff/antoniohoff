@@ -2,7 +2,7 @@
 - 🔬 I have a high school degree as a Chemical techician
 - 🚛 I was a truck driver for 4 years
 - 🌱 I’m currently learning PHP
-- 🏺 My goal here is to become independent developer
+- 🏺 My goal is to become independent developer
 - 🇨🇦 Someday I plan to live in Canada 
 
 <!---
